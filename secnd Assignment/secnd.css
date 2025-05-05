@@ -1,0 +1,43 @@
+html{
+    background-color: antiquewhite;
+    font-style: oblique;
+    font-size: larger;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: sans-serif;
+    padding-top: 15px;
+}
+.nav{
+    justify-content: center;
+    font-size: larger;
+    display: flex;
+    gap: 20px;
+    font-weight: 300;
+
+}
+
+.nav a:hover{
+    /* background-color:#00ffcc; */
+    text-decoration: underline;
+    color: black;
+    
+}
+
+.pro{
+     border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    
+}
+h2{
+    color: blueviolet;
+    font-weight: 300;
+    font-size: x-large;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
